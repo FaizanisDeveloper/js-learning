@@ -23,5 +23,5 @@ console.log(typeof null)
 // String=> "Hello John!"
 // Boolean=> true/false
 // Null=> object
-// Undefined=> undefined
 // Symbol=>
+// Undefined=> undefined Any variable that has not been assigned a value has the value undefined.
