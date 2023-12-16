@@ -19,5 +19,5 @@ console.log([studentName,studentMail])
 
 console.log([studentId,studentName,studentMail])
 
-//Table
+//Table using Console
 console.table([studentId,studentMail,studentName,studentGender,studentAddress])
