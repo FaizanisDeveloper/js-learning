@@ -22,12 +22,18 @@ let booltoNumber=Number(age)
 //console.log(booltoNumber)   //1
 let isLoggedIn=1
 let boolisLoggedIn=Boolean(isLoggedIn)
-console.log(boolisLoggedIn) //true
+// console.log(boolisLoggedIn) //true
 isLoggedIn=""
 let stringtoBool=Boolean(isLoggedIn)
-console.log(stringtoBool)
-console.log(typeof stringtoBool)
+// console.log(stringtoBool)
+// console.log(typeof stringtoBool)
 isLoggedIn="hello"
 let filledStringtoBool=Boolean(isLoggedIn)
-console.log(typeof filledStringtoBool)
-console.log(filledStringtoBool)
+// console.log(typeof filledStringtoBool)
+// console.log(filledStringtoBool)
+let num=33
+// console.log(typeof num) //number
+let numtoString=String(num)
+// console.log(numtoString)    //33
+// console.log(typeof numtoString) //string
+
